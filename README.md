@@ -5,13 +5,6 @@ I am majoring in **Computer Science and Mechanical Engineering**, with a minor i
 ## Projects 
 Learn more about some of my recent projects at [grahamonica.github.io](https://grahamonica.github.io)  
 
-## Interests
-- Robotics & Embedded Systems  
-- Software Development & App Design 
-- Computer VIsion
-- Human-Computer Interaction (HCI)  
-- Assistive Technology & Accessibility 
-
 ## Get in Touch
 - **Email**: [monicagraham@gatech.edu](mailto:monicagraham@gatech.edu)  
 - **LinkedIn**: [linkedin.com/in/monicagraham](#)  
