@@ -4,4 +4,4 @@ I am majoring in **Computer Science and Mechanical Engineering**, with a minor i
 
 - **Email**: [monicagraham@gatech.edu](mailto:monicagraham@gatech.edu)  
 - **LinkedIn**: [www.linkedin.com/in/-monica-graham](#)  
-- **Portfolio**: [github.com/grahamonica](https://github.com/grahamonica)  
+- **Portfolio**: [monicagraham.dev](https://monicagraham.dev)  
